@@ -6,6 +6,7 @@ Pada HoL pertama ini akan diberikan pengantar singkat tentang Power BI yang beri
 - Workshop-01.pdf
 - Workshop-02.pdf
 - Workshop-03.pdf
+
 Dan berikut adalah hasil akhir dari HoL 1 ini.
 <img src="https://github.com/rezafaisal/PowerBI/blob/master/images/hol-01.JPG">
 
